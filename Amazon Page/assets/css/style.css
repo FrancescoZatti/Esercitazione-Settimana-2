@@ -132,7 +132,7 @@ main {
     text-align: center;
     font-weight: bold;
     color: #DEF7F3;
-    background-image: url('/Amazon Page/assets/images/bg-image.png');
+    background-image: url('../images/bg-image.png');
     background-color: #2F6D5E;
     background-repeat: repeat;
     background-size: contain;
