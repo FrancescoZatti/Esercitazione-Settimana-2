@@ -1,10 +1,14 @@
 /* Your styles here */
 
 /* universali */
+
 .container {
     font-size: 1em;
     background-color: #E9EDEE;
     font-family: Arial, Helvetica, sans-serif;
+    width: 1366px;
+    margin: auto;
+    text-align: center;
 }
 
 .menu {
