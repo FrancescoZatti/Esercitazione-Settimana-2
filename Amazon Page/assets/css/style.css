@@ -12,16 +12,16 @@
 }
 
 .menu {
-    height: 2rem;
+    height: auto;
     background-color: #364759;
     color: white;
     font-weight: 500;
     box-sizing: border-box;
+    padding-bottom: 0.3rem;
 }
 
 .menuLink {
     display: inline-block;
-    vertical-align: middle;
     margin-top: 0.5rem;
     color: white;
 }
@@ -88,8 +88,12 @@ header img {
     box-sizing: border-box;
 }
 
+nav {
+    padding-left: 2rem;
+}
+
 nav a {
-    margin-left: 2rem;
+    margin-right: 1.3rem;
     text-decoration: none;
 }
 
